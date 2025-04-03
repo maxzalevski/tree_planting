@@ -7,3 +7,6 @@ Tree Planting actions in ecovillages network
 - [Zhyvyi Dim](https://github.com/maxzalevski/tree_planting/issues/5)
 - [Kukhari](https://github.com/maxzalevski/tree_planting/issues/7)
 - [VeseliKurkuli](https://github.com/maxzalevski/tree_planting/issues/8)
+- [Byshkyn](https://github.com/maxzalevski/tree_planting/issues/9)
+- []()
+- []()
