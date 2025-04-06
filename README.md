@@ -34,4 +34,28 @@ Total: Thousands of trees and plants rooted in soil by hundreds of dedicated han
 If we missed anyone or any initiative, please reach out and we’ll gladly update this post.  
 Together, we grow a greener future!
 
-#ecovillage #regeneration #treeplanting #communityaction #grassroots #spring2025 #climateaction
+**What This Hypercert Represents**  
+We conducted a multi-site ecological planting action as part of our regenerative landscape program within the ecovillage network in Ukraine. This initiative contributes to climate resilience, biodiversity restoration, and community-driven land stewardship.
+![impact111](https://github.com/user-attachments/assets/33fe5d1b-6ab6-465d-8f60-1fa9b43a993f)
+
+Across **11 locations**, our teams coordinated and carried out collective tree-planting activities covering a **total area of 167 hectares**. These included reforestation zones, parks, syntropic gardens, fruit orchards, and agroforestry systems.
+
+In total, we planted:
+- **4,015+ trees and seedlings**
+- **400 acorns**
+- **100 raspberry bushes**
+- **75+ edible and ornamental shrubs**
+- **30+ lavender plants**
+- **Various flower species**
+
+These efforts were carried out by more than **160 volunteers**, including children, local residents, ecovillage members, and allied regenerative practitioners.
+
+Each location adapted its planting plan based on local conditions and goals — ranging from food forest development to windbreaks and urban greening. Community engagement and intergenerational participation were key components of this regenerative action.
+
+You can view this verified ecological contribution on the blockchain via our Hypercert:  
+🔗 [https://www.ecocertain.xyz/hypercert/42220-0x16bA53B74c234C870c61EFC04cD418B8f2865959-46958966635089507957945695825584013180928](https://www.ecocertain.xyz/hypercert/42220-0x16bA53B74c234C870c61EFC04cD418B8f2865959-46958966635089507957945695825584013180928)
+
+This Hypercert marks a collective step toward ecosystem regeneration and decentralized ecological accountability. 🌍🌱
+
+#Hypercert #Ecocert #EcovillageNetwork #RegenerativeAction #OnChainEcology #TreePlanting #GrassrootsClimate
+
