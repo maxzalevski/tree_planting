@@ -10,23 +10,28 @@ Tree Planting actions in ecovillages network
 - [VeseliKurkuli](https://github.com/maxzalevski/tree_planting/issues/8)
 - [Byshkyn](https://github.com/maxzalevski/tree_planting/issues/9)
 
-🌳 **Spring 2024 Tree-Planting Summary** 🌳  
+**🌱 Spring Tree Planting Summary 2025 🌱**
 
-This spring, our eco-communities made a huge contribution to nature restoration by planting thousands of trees across Ukraine. A huge thank you to everyone who participated! 💚  
+This spring, our ecovillage network came together for a powerful season of regeneration and reforestation. Across various communities and initiatives, hundreds of volunteers planted thousands of trees, shrubs, and other beneficial plants. Here's a summary of our collective efforts:
 
-📍 **Zhyvyi Dim** – 130 trees, 35 people  
-📍 **Happy People** – 250 trees, 25 people  
-📍 **Potoky** – 170 saplings, 6 adults + 8 children  
-📍 **Kukhari** – 310 plants + 400 acorns, 16 people  
-📍 **City of the Sun** – about 180 saplings + 100 raspberry bushes, 6 people  
-📍 **Cedars of Polissya** – 2,000 trees over a long period  
-📍 **Vesela Slobidka**  
-   - 🌳 **Hruzke Park** – 30 trees and bushes, 30 people  
-   - 🌳 **Shelterbelt** – 250 linden trees, 10 people  
-📍 **Radariya** – 43 fruit trees ("Garden for Olenka," Zaruddya village, Kyiv region), 5 people  
+- **Living House (Живий дім):** 130 trees planted by 35 people  
+- **Happy People (Щасливі Люди):** 250 trees planted by 25 people  
+- **Potoky (Потоки):** 170 seedlings planted by 6 adults and 8 children  
+- **Kukhari (Кухарі):** 310 plants + 400 acorns, 16 participants  
+- **City of the Sun (Місто Сонця):** ~180 seedlings + 100 raspberry bushes, 6 participants  
+- **Cedars of Polissya (Кедри Полісся):** 2000 trees planted over a longer period  
+- **Vesela Slobidka (Весела Слобідка):**  
+  - Hruzke Park: 30 trees and shrubs planted by 30 people  
+  - Local windbreak: 250 linden trees planted by 10 people  
+- **Radaria:** 43 fruit trees planted for the “Orchard for Olenka” in Zaruddia village (Kyiv region), 5 participants  
+- **Charivne (Чарівне):** 45 edible and ornamental shrubs, 30 lavender plants, and various flowers planted by 7 adults and children  
+- **Space of Love (Простір Любові):** Two planting events — 67 + 63 trees planted (ongoing).  
+  - First event: 10 participants, including 3 children  
+  - Second event: 3 adults and 4 children  
 
-We're awaiting updates from **Charivne** and **Prostir Lyubovi**. If we missed anyone – let us know! 🌱  
+Total: Thousands of trees and plants rooted in soil by hundreds of dedicated hands. 🌳💚
 
-Together, we are making the world a greener place! 💚  
+If we missed anyone or any initiative, please reach out and we’ll gladly update this post.  
+Together, we grow a greener future!
 
-#Ecovillage #TreePlanting #FoodForest #GENUkraine #NatureRestoration
+#ecovillage #regeneration #treeplanting #communityaction #grassroots #spring2025 #climateaction
