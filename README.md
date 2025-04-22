@@ -5,6 +5,7 @@ Tree Planting actions in ecovillages network
 
 This spring, our ecovillage network came together for a powerful season of regeneration and reforestation. Across various communities and initiatives, hundreds of volunteers planted thousands of trees, shrubs, and other beneficial plants. Here's a summary of our collective efforts:
 
+- **[Svitankove](https://github.com/maxzalevski/tree_planting/issues/12):** 150 trees planted  
 - **[Zhyvyi Dim](https://github.com/maxzalevski/tree_planting/issues/5):** 130 trees planted by 35 people  
 - **[Byshkyn](https://github.com/maxzalevski/tree_planting/issues/9):** 250 trees planted by 25 people  
 - **Potoky (Потоки):** 170 seedlings planted by 6 adults and 8 children  
