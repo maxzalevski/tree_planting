@@ -1,5 +1,6 @@
 # tree_planting and foodforest
 Tree Planting actions in ecovillages network 
+
 **🌱 Autumn Tree Planting Summary 2026 🌱**
 
 During autumn 2026, seven local communities organised tree planting and landscape restoration activities across five regions of Ukraine, collectively planting approximately 3,200 trees and shrubs.
@@ -12,21 +13,21 @@ Community-Led Land Regeneration
 
 Each Toloka involved 2–3 local families and additional volunteers working together to prepare the land, plant trees and shrubs, and care for their territories.
 
-**Radaria Ecocentre and Kukhari Ecovillage, Kyiv region:** 87 trees and shrubs.
+- **Radaria Ecocentre and Kukhari Ecovillage, Kyiv region:** 87 trees and shrubs.
 
-**Prostir Liubovi & Posolon** — Lahulske Arboretum, Zhytomyr region: 2,290 trees.
+- **Prostir Liubovi & Posolon** — Lahulske Arboretum, Zhytomyr region: 2,290 trees.
 
-**Kedrovka Ecovillage, Kyiv region**: 210+ plants.
+- **Kedrovka Ecovillage, Kyiv region**: 210+ plants.
 
-**Byshkyn — Living Home, Kharkiv region:** approximately 100 plants.
+- **Byshkyn — Living Home, Kharkiv region:** approximately 100 plants.
 
-**Svitankove Ecovillage, Sumy region:** approximately 40 trees and shrubs.
+- **Svitankove Ecovillage, Sumy region:** approximately 40 trees and shrubs.
 
-**Cedar Polissia Ecovillage, Zhytomyr region:** 200 seedlings.
+- **Cedar Polissia Ecovillage, Zhytomyr region:** 200 seedlings.
 
-**New Mayapur Ecovillage, Dnipropetrovsk region:** approximately 250 seedlings.
+- **New Mayapur Ecovillage, Dnipropetrovsk region:** approximately 250 seedlings.
 
-**Total:** 7 locations, 5 regions, approximately 3,200 trees and shrubs.
+- **Total:** 7 locations, 5 regions, approximately 3,200 trees and shrubs.
 
 **Digital Impact Monitoring**
 
