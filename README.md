@@ -1,5 +1,45 @@
 # tree_planting and foodforest
 Tree Planting actions in ecovillages network 
+**🌱 Autumn Tree Planting Summary 2026 🌱**
+
+During autumn 2026, seven local communities organised tree planting and landscape restoration activities across five regions of Ukraine, collectively planting approximately 3,200 trees and shrubs.
+
+These activities were supported through a combination of funding from Ma Earth Round 3, Artizen Season 6, other funding channels, and contributions from local communities and volunteers.
+
+Rather than operating as isolated grant-funded projects, these initiatives form part of a continuous regenerative process across the Ukrainian ecovillage network.
+
+Community-Led Land Regeneration
+
+Each Toloka involved 2–3 local families and additional volunteers working together to prepare the land, plant trees and shrubs, and care for their territories.
+
+**Radaria Ecocentre and Kukhari Ecovillage, Kyiv region:** 87 trees and shrubs.
+**Prostir Liubovi & Posolon** — Lahulske Arboretum, Zhytomyr region: 2,290 trees.
+**Kedrovka Ecovillage, Kyiv region**: 210+ plants.
+**Byshkyn — Living Home, Kharkiv region:** approximately 100 plants.
+**Svitankove Ecovillage, Sumy region:** approximately 40 trees and shrubs.
+**Cedar Polissia Ecovillage, Zhytomyr region:** 200 seedlings.
+**New Mayapur Ecovillage, Dnipropetrovsk region:** approximately 250 seedlings.
+
+**Total:** 7 locations, 5 regions, approximately 3,200 trees and shrubs.
+
+**Digital Impact Monitoring**
+
+One of our key achievements in 2026 has been the development of a decentralised environmental monitoring practice across the Ukrainian ecovillage network.
+
+The Silvi platform demonstrates the growing scale of our collective tree planting activities:
+April 2026: 878 mapped plantings.
+Mid-November 2026: approximately 4,812.
+November 26, 2026: approximately 5,770.
+
+This represents a 6.6-fold increase in digitally documented plantings over seven months.
+
+Individual communities photograph their plantings, record geographical coordinates and upload data to Silvi. When aggregated, these small local actions reveal the scale of collective land regeneration across the network.
+
+Digital documentation makes regenerative activities visible and measurable, creating a foundation for long-term ecological monitoring and regenerative finance.
+
+These cumulative figures reflect broader network activities throughout 2026, supported by multiple funding sources, rather than exclusively Ma Earth-funded activities.
+
+Full Report: https://github.com/maxzalevski/tree_planting/issues/23
 
 **🌱 Spring Tree Planting Summary 2025 🌱**
 
